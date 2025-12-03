@@ -7,6 +7,5 @@ Process overview:
 -Creating a database table with the required column structure.  
 -Using PHP to handle the core functionality and database connection.  
 -Using Shuchkin SimpleXLSX to parse the Excel file and convert it for database insertion.  
--Updating hinnasto_paivitysaika.txt with the timestamp extracted from the Excel file.  
-    (A password was added to the update page since the database and text file are writable — mainly for educational and security demonstration purposes. The password is included in the assignment return file.)  
+-Updating hinnasto_paivitysaika.txt with the timestamp extracted from the Excel file.(A password was added to the update page since the database and text file are writable — mainly for educational and security demonstration purposes. The password is included in the assignment return file.)  
 -Using HTML, CSS and Bootstrap to build the front-end layout.  
