@@ -4,7 +4,7 @@ error_reporting(E_ALL & ~E_DEPRECATED);
 session_start();
 
 // --- SALASANA ---
-define('UPDATE_PASSWORD', 'Koodaus1');
+define('UPDATE_PASSWORD', 'TÄMÄ_ON_SENSOROITU');
 
 if (isset($_POST['password'])) {
     if ($_POST['password'] === UPDATE_PASSWORD) {
