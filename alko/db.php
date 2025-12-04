@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "alko_user";     // ← tietokannan käyttäjänimi
-$pass = "vahva_salasana"; // ← tietokannan salasana
+$pass = "TÄMÄ_ON_SENSOROITU"; // ← tietokannan salasana
 $db   = "alko";          // ← tietokannan nimi
 
 $mysqli = new mysqli($host, $user, $pass, $db);
